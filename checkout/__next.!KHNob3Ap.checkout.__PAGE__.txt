@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[49266,["/planetatapeta-preview/_next/static/chunks/a20396af73e4b25c.js","/planetatapeta-preview/_next/static/chunks/28495e3fd845c28f.js","/planetatapeta-preview/_next/static/chunks/269c7adde92257c8.js","/planetatapeta-preview/_next/static/chunks/5bbc68a19efb5d58.js"],"default"]
+2:I[49266,["/planetatapeta-preview/_next/static/chunks/a2d5d83a7c8834ba.js","/planetatapeta-preview/_next/static/chunks/28495e3fd845c28f.js","/planetatapeta-preview/_next/static/chunks/269c7adde92257c8.js","/planetatapeta-preview/_next/static/chunks/5bbc68a19efb5d58.js"],"default"]
 3:I[97367,["/planetatapeta-preview/_next/static/chunks/ff1a16fafef87110.js","/planetatapeta-preview/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"MG61-ytRE7yr8Kh6o5M9n","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"page pb-8 pt-8 lg:pt-12","children":["$","$L2",null,{"contactEmail":"djoletodorovic20@gmail.com"}]}],[["$","script","script-0",{"src":"/planetatapeta-preview/_next/static/chunks/5bbc68a19efb5d58.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"o-BilaX2NLr9PT_urTWOF","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"page pb-8 pt-8 lg:pt-12","children":["$","$L2",null,{"contactEmail":"djoletodorovic20@gmail.com"}]}],[["$","script","script-0",{"src":"/planetatapeta-preview/_next/static/chunks/5bbc68a19efb5d58.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null

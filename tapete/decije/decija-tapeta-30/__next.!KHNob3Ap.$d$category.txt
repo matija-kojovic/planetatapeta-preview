@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[39756,["/planetatapeta-preview/_next/static/chunks/ff1a16fafef87110.js","/planetatapeta-preview/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
 3:I[37457,["/planetatapeta-preview/_next/static/chunks/ff1a16fafef87110.js","/planetatapeta-preview/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
-0:{"buildId":"o-BilaX2NLr9PT_urTWOF","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"yetQp3L1u6Qx7Fp02gHI9","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
